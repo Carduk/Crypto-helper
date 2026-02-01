@@ -1,0 +1,36 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDEs
+.vscode/
+.idea/
+
+# Local configuration and secrets
+.env
+.env.local
+
+# Runtime / Logs
+*.log
+memory.txt
+Nuevo Documento de texto.txt
+
+# PyInstaller default output
+*.spec
